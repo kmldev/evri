@@ -1,0 +1,3 @@
+<?php 
+header("location: https://gateway.foresee.com/code/19.14.10-fs/fs.tracker.html?uid=682814a1-3e26-4a0b-8577-38423094f4ae&sitekey=evri&domain=evri.com&gw=%2F%2Fgateway.foresee.com%2Fsites%2Fevri%2Fproduction%2Ftrigger%2F__gwtest__&brain_url=https%3A%2F%2Fbrain.foresee.com&fsrlocale=en&_svu_=https%3A%2F%2Fsurvey.foreseeresults.com%2Fsurvey%2Fdisplay&_cv_=19.14.10-fs&_issh_=false&_vt_=19.14.10-fs&_au_=https%3A%2F%2Fanalytics.foresee.com%2Fingest%2Fevents&_pa_=undefined");
+?>
